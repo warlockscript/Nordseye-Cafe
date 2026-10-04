@@ -114,4 +114,11 @@ the dashboard.
 
 ---
 
-Nordseye is proprietary software. © 2026 Nordseye. All rights reserved.
+## Contact
+
+Questions, licensing and support: **Master Pro Sounds and Lights Services**,
+[masterpro0115@gmail.com](mailto:masterpro0115@gmail.com)
+
+---
+
+Nordseye is proprietary software. © 2026 Master Pro Sounds and Lights Services. All rights reserved.
